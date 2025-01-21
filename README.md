@@ -70,4 +70,4 @@ Use the [GitHub issues](https://github.com/bvhpatel/TD-pressure-flow-paper-code/
 If you use this code, please cite the related paper (it will be listed [here](https://github.com/bvhpatel/TD-pressure-flow-paper-inventory) when available) and also cite this repository as:
 
 ```bash
-Patel, Bhavesh, Aashish Ahuja, Ghassan Kassab. Code: Thoracic duct pressure flow relation paper [Software]. Zenodo. https://doi.org/10.5281/zenodo.14709022
+Patel, Bhavesh. Code: Thoracic duct pressure flow relation paper [Software]. Zenodo. https://doi.org/10.5281/zenodo.14709022
