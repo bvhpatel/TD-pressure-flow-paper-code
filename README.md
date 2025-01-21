@@ -11,7 +11,7 @@
 [issues-shield]: https://img.shields.io/github/issues/bvhpatel/TD-pressure-flow-paper-code.svg?style=flat-square
 [issues-url]: https://github.com/bvhpatel/TD-pressure-flow-paper-code/issues
 [license-shield]: https://img.shields.io/github/license/bvhpatel/TD-pressure-flow-paper-code.svg?style=flat-square
-[license-url]: https://github.com/bvhpatel/TD-pressure-flow-paper-code/blob/master/LICENSE
+[license-url]: LICENSE
 
 # Code: Thoracic duct pressure flow relation paper
 
