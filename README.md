@@ -16,7 +16,7 @@
 # Code: Thoracic duct pressure flow relation paper
 
 ## About
-This is the code associated with our paper where we derived a mathematical model for the pressure-flow relationship for a thoracic duct segment with one valve. See this [inventory](https://github.com/AI-READI/TD-pressure-flow-paper-inventory) for all related resources, including the paper.
+This is the code associated with our paper where we derived a mathematical model for the pressure-flow relationship for a thoracic duct segment with one valve. See this [inventory](https://github.com/bvhpatel/TD-pressure-flow-paper-inventory) for all related resources, including the paper.
 
 
 ## Standards followed
@@ -64,10 +64,10 @@ This work is licensed under
 [MIT](https://opensource.org/licenses/mit). See [LICENSE](LICENSE) for more information.
 
 ## Feedback and contribution
-Use the [GitHub issues](https://github.com/bvhpatel/TD-pressure-flow-paper-code) for submitting feedback or making suggestions. You can also work the repository and submit a pull request with suggestions.
+Use the [GitHub issues](https://github.com/bvhpatel/TD-pressure-flow-paper-code/issues) for submitting feedback or making suggestions. You can also work the repository and submit a pull request with suggestions.
 
 ## How to cite
 If you use this code, please cite the related paper (it will be listed [here](https://github.com/bvhpatel/TD-pressure-flow-paper-inventory) when available) and also cite this repository as:
 
 ```bash
-Patel, Bhavesh, Aashish Ahuja, Ghassan Kassab. Code: Dataset Documentation for AI Paper [Software]. Zenodo. https://doi.org/10.5281/zenodo.14709022
+Patel, Bhavesh, Aashish Ahuja, Ghassan Kassab. Code: Thoracic duct pressure flow relation paper [Software]. Zenodo. https://doi.org/10.5281/zenodo.14709022
