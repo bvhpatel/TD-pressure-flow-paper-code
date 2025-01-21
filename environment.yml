@@ -1,4 +1,4 @@
-name: dataset-documentation-env
+name: TD-paper-env
 channels:
   - defaults
   - conda-forge
